@@ -17,8 +17,7 @@ If annotate a new dataset following our annotation scheme and the same [annotati
 If you want to know more about the dataset including how we built it and the agreement evaluation results, please read them in our paper (the paper link will be given soon once the paper is published in [CLiC-it 2023](https://clic2023.ilc.cnr.it/).
 
 ## Citation
-The code and the data in this repository can be used for free, but if you want to publish a paper/publication using this code/data, please cite this publication: **Cristina Bosco, Muhammad Okky Ibrohim, Valerio Basile, Indra Budi. 2023. How green is Sentiment Analysis? Environmental Topics in Corpora at the University of Turin. In: *Proceeding of CLiC-it 2023
-*. [to be published]** (Every paper template may have different citation writing. The .bib citation will be provided soon after the paper is published).
+The code and the data in this repository can be used for free, but if you want to publish a paper/publication using this code/data, please cite this publication: **Cristina Bosco, Muhammad Okky Ibrohim, Valerio Basile, Indra Budi. 2023. How green is Sentiment Analysis? Environmental Topics in Corpora at the University of Turin. In: *Proceeding of CLiC-it 2023*. [to be published]** (Every paper template may have different citation writing. The .bib citation will be provided soon after the paper is published).
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
